@@ -1,7 +1,5 @@
 package: github.com/mrkaspa/pingo
 import:
-- package: github.com/pkg/errors
-  version: ^0.8.0
 - package: github.com/gizak/termui
   version: ^2.2.0
 - package: github.com/maruel/panicparse

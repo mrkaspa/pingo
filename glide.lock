@@ -1,10 +1,22 @@
 hash: 6f39540b3ea0de1fdda1e93991d32319f3a5bc9aa9c3083164deb83b16f6b12e
-updated: 2017-04-07T14:41:48.134027481-05:00
+updated: 2017-05-08T20:17:57.376752438-05:00
 imports:
 - name: github.com/gizak/termui
   version: 24acd523c756fd9728824cdfac66aad9d8982fb7
+  subpackages:
+  - debug
 - name: github.com/maruel/panicparse
   version: ae43f192cef2add653fe1481a3070ed00a4a6981
   subpackages:
   - stack
+- name: github.com/mattn/go-runewidth
+  version: 14207d285c6c197daabb5c9793d63e7af9ab2d50
+- name: github.com/mitchellh/go-wordwrap
+  version: ad45545899c7b13c020ea92b2072220eefad42b8
+- name: github.com/nsf/termbox-go
+  version: 7994c181db7761ca3c67a217068cf31826113f5f
+- name: golang.org/x/net
+  version: feeb485667d1fdabe727840fe00adc22431bc86e
+  subpackages:
+  - websocket
 testImports: []

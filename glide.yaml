@@ -1,7 +1,0 @@
-package: github.com/mrkaspa/pingo
-import:
-- package: github.com/gizak/termui
-  version: ^2.2.0
-- package: github.com/maruel/panicparse
-  subpackages:
-  - stack
